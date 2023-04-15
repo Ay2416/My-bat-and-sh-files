@@ -1,5 +1,5 @@
 # My-bat-and-sh-files
-I make bat files and sh files. And, I use it. (Maybe not good program...)
+I using bat files and sh files. (Maybe not good program...)
 
 ## Bat files(Work on the windows. but, checked only windows11)
 
