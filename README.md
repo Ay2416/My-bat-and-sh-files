@@ -1,14 +1,16 @@
 # My-bat-and-sh-files
 I make bat files and sh files. And, I use it. (Maybe not good program...)
 
-## bat files
+## Bat files(Work on the windows. but, checked only windows11)
 
 ### No.1 Create No.1~No.15 files
+This bat file make directory 1~15 files.
 
-## sh files
+
+## Sh files(Work on the Linux. but, checked only ubuntu)
 
 ### No.1 Minecraft server start and stop
-↓Very refer site! (very helpful !!)↓
+↓ Very refer site! (very helpful !!) ↓
 
 [https://jyn.jp/minecraft-server-auto-restart/](https://jyn.jp/minecraft-server-auto-restart/)
 
