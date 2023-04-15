@@ -1,2 +1,2 @@
-# My-cmd-and-shell-files
+# My-bat-and-sh-files
 I make bat files and sh files. And, I use it. (Maybe not good program...)
